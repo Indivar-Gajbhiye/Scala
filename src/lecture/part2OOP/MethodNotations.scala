@@ -19,7 +19,7 @@ object MethodNotations extends App {
 
   val anotherPerson = new Person("James", "Shutter Island")
   println(person hangOutWith anotherPerson)
-  // All Operators in scala are methods (+, -)
+  // All Operators in scala are methods exmaples are(+, -)
 
 
   //Prefix Notations
